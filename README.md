@@ -1,2 +1,2 @@
-html5advancedvideoplayer
+HTML5 Advanced Video Player
 ========================
