@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
+<meta charset="utf-8">
+
+<!--HTML5 Advanced Video Player created by brandonjordan1 on github https://github.com/brandonjordan1-->
 
 <script type="text/javascript">
 <!-- hide from old browsers
@@ -70,19 +72,6 @@ function getValue(varname)
 </head>
 <body>
 
-<script type="text/javascript">
-{
-var annotation = getValue("annotation");
-var annlink = getValue("annlink");
-}
-if (annotation != '') {
-document.write("<a href='" + annlink + "><div class='annotation'>" + annotation + "</div></a>");
-}
-else {
-
-}
-</script>
-
 <div class="info">
 
 <script type="text/javascript">
@@ -119,7 +108,7 @@ else {
 var url = window.location.href;
 }
 if (url != '') {
-document.write("<center><a href='http://www.facebook.com/dialog/feed?app_id=87741124305&link=" + url + "&display=popup'><img src='fb.png' width='68'/></a>&nbsp;&nbsp;&nbsp;<a href='https://twitter.com/intent/tweet?url=" + url + "&text=Check out this video!&related=TheDeer01'><img src='twitter.png' width='68'/></a>");
+document.write("<center><a href='http://www.facebook.com/dialog/feed?app_id=87741124305&link=" + url + "&display=popup' target='_blank'><img src='fb.png' width='68'/></a>&nbsp;&nbsp;&nbsp;<a href='https://twitter.com/intent/tweet?url=" + url + "&text=Check out this video!&related=TheDeer01' target='_blank'><img src='twitter.png' width='68'/></a>");
 }
 else {
 
@@ -131,6 +120,19 @@ else {
   <div class="modal-footer">
   </div>
 </div>
+
+<script type="text/javascript">
+{
+var annotation = getValue("annotation");
+var annlink = getValue("annlink");
+}
+if (annotation != '') {
+document.write("<a href='" + annlink + "' target='_blank'><div class='annotation'>" + annotation + "</div></a>");
+}
+else {
+
+}
+</script>
 
 	<div id="video-container">
 		<!-- Video -->
