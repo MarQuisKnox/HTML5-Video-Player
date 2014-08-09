@@ -13,7 +13,7 @@ Example: player.html?videotitle=Your Video Title
 
 <table>
 
-<tr><td>Parameter</td><td>Description</td></tr>
+<tr><td><b>Parameter</b></td><td><b>Description</b></td></tr>
 
 <tr><td>videotitle</td><td>Title of the video</td></tr>
 
