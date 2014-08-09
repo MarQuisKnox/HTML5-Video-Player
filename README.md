@@ -33,4 +33,4 @@ You can change any of the colors, or icons by editing "style.css". Please do not
 
 Contact, Get Help & Make Requests
 ==============
-Contact me on <a href='http://brandon-jordan.weebly.com/contact-me'>my website</a> for suggestions, help, and requests. Cheers!
+Contact me on <a href='http://brandon-jordan.weebly.com/contact-me' target="_blank">my website</a> for suggestions, help, and requests. Cheers!
