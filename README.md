@@ -1,6 +1,6 @@
-HTML5 Advanced Video Player
+HTML5 Video Player
 ========================
-Sleek, responsive, HTML5  Video Player with awesome capabilities and features.
+Responsive HTML5 Video Player with awesome capabilities and features.
 
 Usage
 ========================
@@ -8,7 +8,6 @@ You can just use a standard iframe with "player.html" as the src. If you have an
 
 URL Parameters
 ========================
-
 Example: player.html?videotitle=Your Video Title
 
 <table>
@@ -23,13 +22,13 @@ Example: player.html?videotitle=Your Video Title
 
 <tr><td>annotation</td><td>Text of the annotation</td></tr>
 
-<tr><td>annlink</td><td>Link the user will navagate to when clicking on the annotation</td></tr>
+<tr><td>annlink</td><td>Link the user will navigate to when clicking on the annotation</td></tr>
 
 </table>
 
 Fully Customizable
 ========================
-You can change any of the colors, or icons by editing "style.css". Please do not edit the JavaScript, unless absolutely nessesary.
+You can change any of the colors, or icons by editing "style.css". Please do not edit the JavaScript, unless absolutely necessary.
 
 Contact, Get Help & Make Requests
 ==============
