@@ -1,4 +1,4 @@
-HTML5 Video Player
+HTML5 Video Player 2.0
 ========================
 Responsive HTML5 Video Player with awesome capabilities and features.
 
