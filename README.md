@@ -1,15 +1,16 @@
 HTML5 Advanced Video Player
 ========================
-Sleek, responsive, HTML5, CSS3, JavaScript Video Player with awesome features.
+Sleek, responsive, HTML5  Video Player with awesome capabilities and features.
 
 Usage
 ========================
-Please keep: <!--HTML5 Advanced Video Player created by brandonjordan1 on github https://github.com/brandonjordan1--> in the HTML Document.
-
 You can just use a standard iframe, if you have another method, go for it, the player is responsive and will adapt to any screen size, or frame size.
 
 URL Parameters
 ========================
+
+Example: player.html?videotitle=Your Video Title
+
 <table>
 
 <tr><td>Parameter</td><td>Description</td></tr>
@@ -28,6 +29,8 @@ URL Parameters
 
 Fully Customizable
 ========================
-You can change any of the colors, features on the player, and more just by editing the files.
+You can change any of the colors, or icons by editing the css. Please do not edit the JavaScript, unless absolutely nessesary.
 
-Enjoy!
+Contact, Get Help & Make Requests
+==============
+Contact me on <a href='http://brandon-jordan.weebly.com/contact-me'>my website</a> for suggestions, help, and requests. Cheers!
