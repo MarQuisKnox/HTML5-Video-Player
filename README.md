@@ -4,7 +4,7 @@ Sleek, responsive, HTML5  Video Player with awesome capabilities and features.
 
 Usage
 ========================
-You can just use a standard iframe, if you have another method, go for it, the player is responsive and will adapt to any screen size, or frame size.
+You can just use a standard iframe with "player.html" as the src. If you have another method, go for it, the player is responsive and will adapt to any screen size, or frame size.
 
 URL Parameters
 ========================
@@ -29,7 +29,7 @@ Example: player.html?videotitle=Your Video Title
 
 Fully Customizable
 ========================
-You can change any of the colors, or icons by editing the css. Please do not edit the JavaScript, unless absolutely nessesary.
+You can change any of the colors, or icons by editing "style.css". Please do not edit the JavaScript, unless absolutely nessesary.
 
 Contact, Get Help & Make Requests
 ==============
